@@ -24,6 +24,6 @@ The basic charateristic of the UAV can be listed as follows
 
 PID parameters are tuned to fit the following control requirement:
 
-- when tracing the unit step position input command, the output overshoot \sigma <=20%, the settling time ts <=0.5s
+- when tracing the unit step position input command, the output overshoot $ \sigma $ <=20%, the settling time ts <=0.5s
 - when tracing the unit step angular input command, the output overshoot \sigma <=20%, the settling time ts <=0.5s
 
